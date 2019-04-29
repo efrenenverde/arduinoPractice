@@ -12,8 +12,10 @@ El ejercicio propone usar Tinkercad o una página diferente para gestionar el c�
 
 Montamos el circuito en Tinkercad para comprobar que todo esté correcto, usando el siguiente esquema de circuito y el código básico funciona a la perfección.
 
-<img  width="300" src=ArduinoUnoEx2Circuit.png>
+<img width="300" src=ArduinoUnoEx2Circuit.png>
 
+Pasamos el circuito a la placa y [funciona correctamente](ArduinoUnoEx2VideoBasic.mp4), aunque en este punto decidimos pecir una protoboard porque hacerlo a mano es altamente incómodo.
 
+Continuando con el ejercicio, conseguimos que 
 
 Este [video](https://github.com/efrenenverde/arduinoPractice/blob/master/Ex1%20-%20Led%20on%20and%20off/ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.
