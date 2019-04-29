@@ -16,6 +16,8 @@ Montamos el circuito en Tinkercad para comprobar que todo esté correcto, usando
 
 Pasamos el circuito a la placa y [funciona correctamente](ArduinoUnoEx2VideoBasic.mp4), aunque en este punto decidimos pecir una protoboard porque hacerlo a mano es altamente incómodo.
 
-Continuando con el ejercicio, conseguimos que 
+Continuando con el ejercicio, conseguimos que los tres leds se iluminen [funciona correctamente](ArduinoUnoEx2VideoBasic.mp4) usando el código subido y comentado en [ArduinoUnoEx2Faster.ino](ArduinoUnoEx2Faster.ino).
 
-Este [video](https://github.com/efrenenverde/arduinoPractice/blob/master/Ex1%20-%20Led%20on%20and%20off/ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.
+
+
+Este [video](ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.

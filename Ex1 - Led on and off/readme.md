@@ -27,5 +27,5 @@ En esta prueba hicimos solo dos fotos, con las luces encendidas y apagadas. Vien
 
 La siguiente parte del ejercicio es aplicar modificaciones al código para comprobar que lo entendemos. Esta parte la llevé a cabo editando el código con comentarios en los que hago referencia a qué hace cada línea, en el archivo "Led_OnOff1sec.ino" se encuentra el código original con el añadido de mis comentarios explicando cada parte, y "Led_OnOff01sec.ino" es la versión modificada en la que reducimos el tiempo entre flashes para darle un toque más fiestero al LED.
 
-Este [video](https://github.com/efrenenverde/arduinoPractice/blob/master/Ex1%20-%20Led%20on%20and%20off/ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.
+Este [video](ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.
 
