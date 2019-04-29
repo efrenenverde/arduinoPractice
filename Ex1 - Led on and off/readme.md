@@ -15,8 +15,15 @@ Para poder detectar las placas correctamente necesitaremos los drivers que Ardui
 
 Para poder manejar la información de la placa, instalaremos [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
-Iniciamos Arduino IDE y buscamos el puerto correspondiente a nuestra placa, confugurando tambien el modelo y demás información relevante bajo la pestaña de "herramientas".
+Iniciamos Arduino IDE y buscamos el puerto correspondiente a nuestra placa, configurando tambien el modelo y demás información relevante bajo la pestaña de "herramientas".
 
-Ya tenemos todo listo para pasar a la siguiente parte
+Ya tenemos todo listo para pasar a la siguiente parte, en la que empezaremos a configurar el Arduino Uno. Para ello simplemente copiamos el código del ejercicio y lo subimos a la placa. En este punto tuvimos algun problema con la subida porque habíamos seleccionado un puerto erróneo y no conseguía detectarlo, pero rápidamente lo solucionamos.
+
+En esta prueba hicimos solo dos fotos, con las luces encendidas y apagadas. Viendo que este método no muestra realmente nada del proceso en las siguientes pruebas decidimos mejorarlo.
+
+<img  width="300" src=ArduinoUnoEx1On.jpeg>
+
+<img  width="300" src=ArduinoUnoEx1Off.jpeg>
+
 
 ### 
