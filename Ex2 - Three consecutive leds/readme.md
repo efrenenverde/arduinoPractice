@@ -16,8 +16,8 @@ Montamos el circuito en Tinkercad para comprobar que todo esté correcto, usando
 
 Pasamos el circuito a la placa y [funciona correctamente](ArduinoUnoEx2VideoBasic.mp4), aunque en este punto decidimos pecir una protoboard porque hacerlo a mano es altamente incómodo.
 
-Continuando con el ejercicio, conseguimos que los tres leds se iluminen [funciona correctamente](ArduinoUnoEx2VideoBasic.mp4) usando el código subido y comentado en [ArduinoUnoEx2Faster.ino](ArduinoUnoEx2Faster.ino).
+Continuando con el ejercicio, conseguimos que los tres leds se iluminen [progresivamente más rápido](ArduinoUnoEx2VideoFaster.mp4) usando el código subido y comentado en [ArduinoUnoEx2Faster.ino](ArduinoUnoEx2Faster.ino).
 
+Para la siguiente sección, conseguimos que los leds [parpadeen juntos](ArduinoUnoEx2VideoTogether.mp4) usando [este código](ArduinoUnoEx2Together.ino).
 
-
-Este [video](ArduinoUnoEx1Video.mp4) muestra el resultado de nuestra prueba con el ritmo aumentado.
+Y terminamos el ejercicio cuando conseguimos que los leds se enciendan [por grupos](ArduinoUnoEx2VideoOddsEvens.mp4), primero los que se encuentran en puertos impares y luego el del puerto par, usando [este código](ArduinoUnoEx2OddsEvens.mp4).
