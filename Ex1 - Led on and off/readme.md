@@ -23,5 +23,8 @@ En esta prueba hicimos solo dos fotos, con las luces encendidas y apagadas. Vien
 
 <img  width="300" src=ArduinoUnoEx1On.jpeg> <img  width="300" src=ArduinoUnoEx1Off.jpeg>
 
+La siguiente parte del ejercicio es aplicar modificaciones al código para comprobar que lo entendemos. Esta parte la llevé a cabo editando el código con comentarios en los que hago referencia a qué hace cada línea, en el archivo "Led_OnOff1sec.ino" se encuentra el código original con el añadido de mis comentarios explicando cada parte, y "Led_OnOff01sec.ino" es la versión modificada en la que reducimos el tiempo entre flashes para darle un toque más fiestero al LED.
+
+<img  width="300" src=ArduinoUnoEx1Video.mp4>
 
 ### 
