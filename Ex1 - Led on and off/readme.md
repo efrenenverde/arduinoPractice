@@ -21,9 +21,7 @@ Ya tenemos todo listo para pasar a la siguiente parte, en la que empezaremos a c
 
 En esta prueba hicimos solo dos fotos, con las luces encendidas y apagadas. Viendo que este método no muestra realmente nada del proceso en las siguientes pruebas decidimos mejorarlo.
 
-<img  width="300" src=ArduinoUnoEx1On.jpeg>
-
-<img  width="300" src=ArduinoUnoEx1Off.jpeg>
+<img  width="300" src=ArduinoUnoEx1On.jpeg> <img  width="300" src=ArduinoUnoEx1Off.jpeg>
 
 
 ### 
