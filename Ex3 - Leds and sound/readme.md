@@ -17,6 +17,6 @@ La parte del código es bastante más retorcida y nos toma un buen rato consegui
 
 Esta vez además, como indica el ejercicio usamos Codebender para comprobar que el código es válido.
 
-<img width="300" src=ArduinoUnoEx3Codebender.png>
+<img src=ArduinoUnoEx3Codebender.png>
 
 Montando el circuito físicamente conseguimos sin mayor problema llevar el proyecto a la realidad, y termina [funcionando correctamente](ArduinoUnoEx3Video.mp4)
