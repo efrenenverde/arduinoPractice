@@ -7,7 +7,7 @@ int vel = 1;
 
 void setup()
 {
-    servo1.attach(pin) ;            // Conectar servo1 al pin 9
+    servo1.attach(pin) ;      // Conectar servo1 al pin 9
     pinMode(2, INPUT);        // declare pushbutton as input
 }
 
